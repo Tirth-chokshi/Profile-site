@@ -78,7 +78,7 @@ p.lead {
 }
 
 .img{
-  background-image: url('../img/avatar2.jpg');
+  background-image: url('../img/page-back.jpg');
   background-position: center;
   background-size: cover;
   border-radius: 0px 0px 10px 10px;
@@ -162,7 +162,7 @@ p.lead {
   }
 }
 .container-fluid{
-  background-image: url('../img/avatar6.jpg');
+  background-image: url('../img/page-back.jpg');
   background-position:center;
   background-size: cover;
   background-attachment: fixed;
