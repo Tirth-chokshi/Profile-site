@@ -162,7 +162,7 @@ p.lead {
   }
 }
 .container-fluid{
-  background-image: url('../img/page-back.jpg');
+  background-image: url('../img/small-page-back.jpg');
   background-position:center;
   background-size: cover;
   background-attachment: fixed;
@@ -182,7 +182,7 @@ section.resume-section .resume-item .resume-date {
 @media (min-width: 992px) {
   .container-fluid{
     margin-top: 10px;
-    background-image: url('../img/page-back.jpg');
+    background-image: url('../img/big-page-back.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 10px;
@@ -216,7 +216,7 @@ section.resume-section .resume-item .resume-date {
     display: inline-block;
     height: 2.5rem;
     width: 2.5rem;
-    background-color: #495057;
+    background-color: #2e81d4;
     color: black !important;
     border-radius: 100%;
     text-align: center;
@@ -227,7 +227,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #eaf0eb !important;
+  background-color:#595B83 !important;
 }
 
 .text-primary {
